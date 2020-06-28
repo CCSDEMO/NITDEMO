@@ -10,6 +10,7 @@ public class Employee {
 	}
 	public  void m1()
 	{
-	    System.out.println("added: m1 functionality");
+		
+	    System.out.println("added: m1 functionality:123456ty");
 	}
 }
